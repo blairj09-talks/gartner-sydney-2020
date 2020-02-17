@@ -1,0 +1,13 @@
+name: movie_reviews
+title: Movie Reviews
+username: james
+account: james
+server: colorado.rstudio.com
+hostUrl: https://colorado.rstudio.com/rsc/__api__
+appId: 4404
+bundleId: 34220
+url: https://colorado.rstudio.com/rsc/content/4404/
+when: 1581925250.62514
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: requirements.txt|train.Rmd
